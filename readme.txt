@@ -1,1 +1,1 @@
-readme.txt version==1.0
+readme.txt version==2.0
